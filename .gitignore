@@ -1,0 +1,16 @@
+
+\.history/
+
+node_modules/
+
+errors.json
+
+lastpost.log
+
+lastshow.log
+
+log.json
+
+package-lock.json
+
+user.json
