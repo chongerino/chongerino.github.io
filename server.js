@@ -55,16 +55,19 @@ BOT_MSG_COLOR = "#ff6600"
 
 // Steamnick -> discord user ID so that @mentions can work (enable dev mode in discord, right click user to copy his/her ID)
 USER_MAP = {
-	// "steamnick" : "<@discordid>",
-	// "steamnick" : "<@discordid>",
-	// "steamnick" : "<@discordid>",
+	// "Bbonecaponed" : "<@270624134289948672>",
+	// "SatayCT" : "<@169583869333340160>",
+	// "AffableVulture" : "<@168951296206831616>",
+	// "Redukan" : "<@782130078057234433>",
+	// "Trent" : "<@197117074282250250>",
+	// "carpetfrog23" : "<@168966306136064000>",
 }
 
 // Wbhook URLs from Discord, uses certain hook based on partial game name
 HOOKS = [
 	// {
-	// 	name: "Partial gamename",
-	// 	hook: new DISCORD.Webhook("<<discordwebhookurl>>")
+	// 	name: "Lil D WWIII",
+	// 	hook: new DISCORD.Webhook("<<https://discord.com/api/webhooks/1360027232042750032/_dxSY09_6gCA1eWjsCrVwN0qu4-J1oPWptoRCCoL0D5P3SmqA6oaKF6fFEeYlgE-OqdR>>")
 	// },
 ]
 
